@@ -55,7 +55,7 @@
 ###
 <h2 align="left">Alguns mini projetos</h2>
 <p align="left">
-  ✨ Galeria de imagens <a href="https://jquery-galeria-fotos-khaki.vercel.app/" target="_blank"></a><br>
+  ✨ <a href="https://jquery-galeria-fotos-khaki.vercel.app/" target="_blank"> Galeria de imagens</a><br>
   
 ###
 <div align="left">
