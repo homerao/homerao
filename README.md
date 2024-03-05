@@ -53,6 +53,7 @@
 </div>
 
 ###
+<br clear="both"> 
 <img src="https://raw.githubusercontent.com/homerao/homerao/output/snake.svg" alt="Snake animation" />
 
 ###
