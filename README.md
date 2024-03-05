@@ -54,15 +54,9 @@
 
 ###
 <h2 align="left">Alguns mini projetos</h2>
-<div align="left">
- 
-  <a href="http://jquery-galeria-fotos-khaki.vercel.app" alt="Galeria de fotos" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="html5 logo"  />
-  </a>
-
-</div>
-
-
+<p align="left">
+  ✨ Galeria de imagens <a href="https://jquery-galeria-fotos-khaki.vercel.app/" target="_blank"></a><br>
+  
 ###
 <div align="left">
   <a href="https://www.linkedin.com/in/homero-galv%C3%A3o-l-5126362b6/" target="_blank">
