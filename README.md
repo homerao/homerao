@@ -56,7 +56,11 @@
 <h2 align="left">Alguns mini projetos</h2>
 <p align="left">
   ✨ <a href="https://jquery-galeria-fotos-khaki.vercel.app/" target="_blank"> Galeria de imagens</a><br>
-  
+  ✨ <a href="https://agenda-contatos-sooty.vercel.app/" target="_blank"> Agenda de contatos</a><br>
+  ✨ <a href="https://projeto-calculadora-medias-seven-iota.vercel.app/" target="_blank">Calculadora de médias</a><br>
+  ✨ <a href="https://projeto-1-ebac-eight.vercel.app/" target="_blank"> Site pessoal</a><br>
+  ✨ <a href="https://site-game-shop-amber.vercel.app/" target="_blank"> Site de games</a><br>
+ 
 ###
 <div align="left">
   <a href="https://www.linkedin.com/in/homero-galv%C3%A3o-l-5126362b6/" target="_blank">
