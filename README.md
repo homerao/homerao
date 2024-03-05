@@ -53,8 +53,14 @@
 </div>
 
 ###
-<br clear="both"> 
-<img src="https://raw.githubusercontent.com/homerao/homerao/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Alguns mini projetos</h2>
+<div align="left">
+  <a href="jquery-galeria-fotos-khaki.vercel.app" alt="Galeria de fotos" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="html5 logo"  />
+  </a>
+
+</div>
+
 
 ###
 <div align="left">
