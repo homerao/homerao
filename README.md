@@ -60,7 +60,7 @@
   ✨ <a href="https://projeto-calculadora-medias-seven-iota.vercel.app/" target="_blank">Calculadora de médias</a><br>
   ✨ <a href="https://projeto-1-ebac-eight.vercel.app/" target="_blank"> Site pessoal</a><br>
   ✨ <a href="https://site-game-shop-amber.vercel.app/" target="_blank"> Site de games</a><br>
-  <a href="https://landingpage-eight-psi.vercel.app/" target="_blank">Landing page básica</a><br>
+  ✨ <a href="https://landingpage-eight-psi.vercel.app/" target="_blank">Landing page básica</a><br>
  
 ###
 <div align="left">
