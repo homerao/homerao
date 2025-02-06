@@ -68,7 +68,7 @@
   <a href="https://www.linkedin.com/in/homero-tiago" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="11971700251" target="_blank">
+  <a href="11971700251" target="https://wa.me/qr/GPDXLVP5OK3DE1">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="homerao@gmail.com" target="_blank">
